@@ -1,0 +1,12 @@
+.page_head {
+    color:white;
+    text-align: center;
+}
+body {
+    background-color:rgb(15, 77, 143)
+}
+.image_class {
+    border:2px white solid;
+    border-radius: 40px;
+    padding: 20px
+}
